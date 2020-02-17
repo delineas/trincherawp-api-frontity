@@ -14,7 +14,7 @@ const settings = {
         theme: {
           menu: [
             ["Home", "/"],
-            ["Nature", "/category/nature/"],
+            ["Aspernatur", "/aspernatur-nihil-ea-nulla/"],
             ["Travel", "/category/travel/"],
             ["Aspernatur", "/aspernatur-nihil-ea-nulla/"],
             ["About Us", "/about-us/"]
