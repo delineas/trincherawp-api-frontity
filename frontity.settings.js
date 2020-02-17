@@ -15,7 +15,7 @@ const settings = {
           menu: [
             ["Home", "/"],
             ["Aspernatur", "/aspernatur-nihil-ea-nulla/"],
-            ["Travel", "/category/travel/"],
+            ["Totam", "/totam-asperiores-dolores-alias/"],
             ["Aspernatur", "/aspernatur-nihil-ea-nulla/"],
             ["About Us", "/about-us/"]
           ],
