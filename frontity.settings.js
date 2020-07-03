@@ -30,7 +30,7 @@ const settings = {
       name: "@frontity/wp-source",
       state: {
         source: {
-          api: "https://wordpress-232126-1164206.cloudwaysapps.com/wp-json"
+          api: "https://test.frontity.io/wp-json"
         }
       }
     },
